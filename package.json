@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.559.0",
-    "ssh2": "^0.8.5"
+    "ssh2": "^1.4.0"
   },
   "devDependencies": {
     "eslint": "^6.6.0",
